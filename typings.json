@@ -3,6 +3,10 @@
   "dependencies": {},
   "devDependencies": {},
   "ambientDependencies": {
+    "Q": "github:DefinitelyTyped/DefinitelyTyped/q/Q.d.ts#4de74cb527395c13ba20b438c3a7a419ad931f1c",
+    "async": "github:DefinitelyTyped/DefinitelyTyped/async/async.d.ts#4de74cb527395c13ba20b438c3a7a419ad931f1c",
+    "bluebird": "github:DefinitelyTyped/DefinitelyTyped/bluebird/bluebird.d.ts#dd328830dddffbe19e9addd7cf8532cbd3600816",
+    "deep-diff": "github:DefinitelyTyped/DefinitelyTyped/deep-diff/deep-diff.d.ts#5576e902151dc027bcf308728a46817a7ee4248c",
     "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#48c1e3c1d6baefa4f1a126f188c27c4fefd36bff"
   }
 }
